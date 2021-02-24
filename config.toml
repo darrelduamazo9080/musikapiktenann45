@@ -1,0 +1,5 @@
+baseURL = "https://musicaset-woporas9.vercel.app"
+languageCode = "en-us"
+title = "PDF Sheet Music in English"
+theme = "hugo-theme-minos"
+
